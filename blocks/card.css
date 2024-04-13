@@ -12,5 +12,6 @@
 
 .card__list-item {
     margin: 0 0 16px;
-    
+    list-style-type: none;
+
 }
