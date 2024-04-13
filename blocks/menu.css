@@ -2,6 +2,9 @@
     background-color: #fff;
     background-image: url("/images/background_menu.svg");
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 100px 0px 100px; 
 }
 
