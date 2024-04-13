@@ -17,6 +17,7 @@
     line-height: 52px;
     max-width: 780px;
     margin: 0 0 24px;
+    text-align: center;
 }
 
 .menu__subtitle {
@@ -26,8 +27,9 @@
     font-size: 20px; 
     line-height: 30px;
     max-width: 780px;
+    text-align: center;
 }
 
 .menu__cards {
-    
+
 }
