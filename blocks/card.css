@@ -1,3 +1,16 @@
 .card {
     width: 540px;
 }
+
+.card__list {
+
+}
+
+.card__title {
+    margin: 0 0 32px;
+}
+
+.card__list-item {
+    margin: 0 0 16px;
+    
+}
