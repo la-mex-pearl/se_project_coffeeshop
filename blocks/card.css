@@ -1,0 +1,19 @@
+.card {
+
+}
+
+.card__title {
+    font-family: "Noto Serif"; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 20px; 
+    line-height: 30px;
+}
+
+.card__list-item {
+    font-family: "Inter"; 
+    font-style: normal; 
+    font-weight: bold; 
+    font-size: 20px; 
+    line-height: 30px;
+}
