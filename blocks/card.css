@@ -17,7 +17,6 @@
     font-size: 16px; 
     line-height: 20px;
     display: flex;
-    flex-direction: column;
     max-width: 540px;
 
 }
