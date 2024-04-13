@@ -5,8 +5,7 @@
     background-position: center;
     background-repeat: no-repeat;
     padding: 100px 0 100px; 
-    display: flex;
-    flex-direction: column;
+    
 }
 
 .menu__title {
@@ -28,6 +27,7 @@
     line-height: 30px;
     max-width: 780px;
     text-align: center;
+    margin: 0 0 100px;
 }
 
 .menu__cards {
