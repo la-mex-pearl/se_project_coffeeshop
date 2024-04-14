@@ -1,6 +1,8 @@
 .about {
     margin: 119px 0 173px;
     display: flex;
+    justify-content: space-between;
+
 }
 
 .about__title {
