@@ -47,9 +47,9 @@
    width: 426px;
    height: 426px;
    border-radius: 50%;
-   top: -152px;
-   left: -129px;
    position: static;
+   margin-left: -129px;
+   margin-top: -152px;
    
     
     
