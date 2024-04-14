@@ -56,6 +56,6 @@
    margin-top: -152px;   
 }
 
-.about__circle_animation_blurred {
-    
+@keyframes about__circle_animation_blurred {
+
 }
