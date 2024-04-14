@@ -25,6 +25,7 @@
     padding: 119px 0 173px;
     display: flex;
     flex-direction: column;
+    gap: 20px;
 }
 
 .about__paragraph {
