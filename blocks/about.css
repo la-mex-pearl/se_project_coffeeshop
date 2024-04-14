@@ -17,6 +17,7 @@
     flex-direction: column;
     margin: 0;
     padding: 119px 0 173px;
+    gap: 20px;
     
     
     
@@ -25,7 +26,6 @@
 
 .about__paragraph {
     max-width: 660px;
-    gap: 20px;
 
 }
 
