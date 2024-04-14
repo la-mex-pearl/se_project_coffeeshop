@@ -1,6 +1,6 @@
 .about {
     margin: 0;
-    padding: 0;
+    padding: 119px 0 173px;
     display: flex;
     justify-content: space-between;
 
@@ -21,7 +21,7 @@
 .about__content {
     display: flex;
     flex-direction: column;
-    padding-left: 80px;
+    
     
 
 }
