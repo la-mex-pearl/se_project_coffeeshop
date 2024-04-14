@@ -18,6 +18,8 @@
     font-weight: 500;
     font-size: 44px;
     line-height: 52px;
+    z-index: 3;
+    position: absolute;
 }
 
 .about__content {
@@ -47,6 +49,8 @@
    border-radius: 50%;
    top: -152px;
    left: -129px;
+   position: relative;
+   z-index: 2;
     
     
 }
