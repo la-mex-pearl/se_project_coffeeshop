@@ -17,7 +17,7 @@
     flex-direction: column;
     margin: 0;
     padding: 119px 0 173px;
-    gap: 20px;
+    column-gap: 20px;
     
     
     
