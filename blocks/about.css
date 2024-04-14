@@ -41,12 +41,7 @@
 }
 
 .about__circle {
-    width: 426px;
-    height: 426px;
-    border-radius: 50%;
-    position: absolute;
-    border-radius: -152px 0 0 -129px;
-    background: #2f80ed;
+   
     
     
 }
