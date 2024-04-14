@@ -1,7 +1,6 @@
 .about {
     margin: 119px 80px 173px;
     display: flex;
-    flex-wrap: wrap;
 }
 
 .about__title {
