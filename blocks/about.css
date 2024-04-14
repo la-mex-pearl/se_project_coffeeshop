@@ -13,14 +13,14 @@
 .about__title {
     max-width: 251px;
     margin: 0;
-    padding-top: 100px;
+    padding: 100px 0 0 80px;
     font-family: "Inter";
     font-style: normal;
     font-weight: 500;
     font-size: 44px;
     line-height: 52px;
     position: absolute;
-    margin-left: 80px;
+    
 
 }
 
