@@ -2,23 +2,21 @@
     margin: 0;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .about__title {
     margin: 100px 0 0 80px;
     max-width: 251px;
     font-family: "Inter";
-
-font-style: normal;
-
-font-weight: 500;
-
-font-size: 44px;
-
-line-height: 52px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 52px;
 }
 
 .about__content {
+    margin: 119px 80px 173px 0;
 
 }
 
