@@ -1,5 +1,5 @@
 .about {
-    margin: 119px 0 173px;
+    margin: 0;
     display: flex;
     justify-content: space-between;
 
@@ -7,6 +7,8 @@
 
 .about__title {
     max-width: 251px;
+    margin: 0;
+    padding: 100px 0 0 80px
     font-family: "Inter";
     font-style: normal;
     font-weight: 500;
