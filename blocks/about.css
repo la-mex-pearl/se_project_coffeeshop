@@ -21,7 +21,7 @@
     margin: 0;
     padding: 119px 0 173px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .about__paragraph {
