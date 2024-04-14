@@ -32,7 +32,6 @@
     max-width: 660px;
     margin: 0;
     padding: 0;
-    gap: 20px;
     font-family: "Noto Serif";
     font-style: normal;
     font-weight: normal;
@@ -43,6 +42,11 @@
 
 .about__circle {
    background: #2f80ed;
+   width: 426px;
+   height: 426px;
+   border-radius: 50%;
+   position: absolute;
+   left: -129px;
     
     
 }
