@@ -6,7 +6,7 @@
     background-color: #0A2850;
     color: #fff;
     z-index: 1;
-    position: relative;
+    position: absolute;
     
 
 }
@@ -21,7 +21,7 @@
     font-size: 44px;
     line-height: 52px;
     z-index: 0;
-    position: relative;
+    position: absolute;
 }
 
 .about__content {
@@ -51,7 +51,7 @@
    border-radius: 50%;
    top: -152px;
    left: -129px;
-   position: absolute;
+   position: static;
    z-index: -1;
    margin: 0;
    
