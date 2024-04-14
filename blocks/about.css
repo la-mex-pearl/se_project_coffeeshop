@@ -43,6 +43,9 @@
     width: 426px;
     height: 426px;
     border-radius: 50%;
+    position: absolute;
+    top: -152px;
+    left: -129px;
     background: #2f80ed;
     
     
