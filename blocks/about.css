@@ -1,5 +1,5 @@
 .about {
-    margin: 119px 80px 173px;
+    margin: 119px 0 173px;
     display: flex;
 }
 
@@ -13,7 +13,9 @@
 }
 
 .about__content {
-    
+    display: flex;
+    flex-direction: column;
+    padding-left: 80px;
     
 
 }
