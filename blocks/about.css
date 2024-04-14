@@ -1,6 +1,8 @@
 .about {
     background-color: #0A2850;
     margin: 119px 0 173px;
+    display: flex;
+    flex-direction: row;
 }
 
 .about__title {
