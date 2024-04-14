@@ -53,8 +53,9 @@
    border-radius: 50%;
    position: static;
    margin-left: -129px;
-   margin-top: -152px;
-   
-    
+   margin-top: -152px;   
+}
+
+.about__circle_animation_blurred {
     
 }
