@@ -5,7 +5,7 @@
     justify-content: space-between;
     background-color: #0A2850;
     color: #fff;
-    position: relative;
+    
 
 }
 
@@ -45,7 +45,7 @@
     height: 426px;
     border-radius: 50%;
     position: absolute;
-    border-radius: 152px 0 0 129px;
+    border-radius: -152px 0 0 -129px;
     background: #2f80ed;
     
     
