@@ -6,14 +6,14 @@
     padding: 0;
     margin: 0;
     list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 16px
 }
 
 .card__title {
     margin: 0 0 32px;
 }
 
-.card__list-item {
-    margin: 0 0 16px;
-    
 
-}
+
