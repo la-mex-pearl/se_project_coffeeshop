@@ -3,7 +3,9 @@
 }
 
 .card__list {
-
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
 }
 
 .card__title {
@@ -12,6 +14,6 @@
 
 .card__list-item {
     margin: 0 0 16px;
-    list-style-type: none;
+    
 
 }
