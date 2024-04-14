@@ -7,11 +7,19 @@
 .menu__title {
     text-align: center;
     margin: 0 0 24px;
+    max-width: 780px;
+    font-family: "Inter"; 
+    font-style: normal; 
+    font-weight: 500; 
+    font-size: 44px; 
+    line-height: 52px;
 }
 
 .menu__subtitle {
     text-align: center;
     margin: 0 0 100px;
+    max-width: 780px;
+
 }
 
 .menu__cards {
