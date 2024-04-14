@@ -4,7 +4,9 @@
 }
 
 .about__title {
-
+    max-width: 251px;
+    margin: 0;
+    padding: 100px 0 0 80px;
 }
 
 .about__content {
