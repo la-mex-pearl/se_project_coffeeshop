@@ -76,5 +76,6 @@
    margin-left: -129px;
    margin-top: -152px;   
    position: absolute;
-   animation: 'pulsate';
+   animation-name: 'pulsate';
+   
 }
