@@ -1,11 +1,9 @@
 .footer {
-    width: 100%;
     background-color: #0A2850;
     color: #fff;
     margin: 0;
     padding: 0;
     display: flex; 
-    justify-content: space-between;
 }
 
 .footer__content{
