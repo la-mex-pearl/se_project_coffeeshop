@@ -1,11 +1,11 @@
 @keyframes pulsate {
-    0% {
+    from {
         opacity: 0;
     }
     50% {
         opacity: 0.6;
     }
-    100% {
+    to {
         opacity: 0;
     }
 }
