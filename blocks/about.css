@@ -69,11 +69,10 @@
 }
 
 .about__circle_animation_blurred {
-    background: #fff;
+    background: #0bce83;
    width: 426px;
    height: 426px;
    border-radius: 50%;
-   position: static;
    margin-left: -129px;
    margin-top: -152px;   
 }
