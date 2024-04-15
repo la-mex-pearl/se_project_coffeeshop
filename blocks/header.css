@@ -34,8 +34,6 @@
     margin: 28px 0 0;
 }
 
-
-
 .header__span-accent {
     display: block;
     font-family: "Noto Serif";
@@ -58,7 +56,6 @@
 display: flex;
 justify-content: space-between;
 margin-top: auto;
-
 }
 
 .header__footer-info {

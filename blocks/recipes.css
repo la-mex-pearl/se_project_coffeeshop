@@ -28,20 +28,17 @@
     line-height: 30px;
     padding-top: 24px;
     max-width: 438px;
-    
 }
 
 .recipes__subtitle-accent {
     display: block;
-
 }
 
 .recipes__videos {
     display: flex;
     justify-content: center;
     gap: 40px;
-    padding-top: 80px;
-    
+    padding-top: 80px;  
 }
 
 .recipes__iframe {

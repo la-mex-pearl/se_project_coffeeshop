@@ -5,8 +5,7 @@
 .form__fieldset {
     border: none; 
     padding: 0;
-    margin: 0; 
-   
+    margin: 0;   
 }
 
 .form__label {
@@ -37,7 +36,6 @@
     box-sizing: border-box;
     margin-top: 8px;
     border-radius: 4px;
-   
 }
 
 .form__input[type="text"],
@@ -55,9 +53,7 @@
     font-weight: normal;
     font-size: 20px;
     line-height: 30px;
-    color: #838383;
-
-    
+    color: #838383;  
 }
 
 .form__button {
@@ -74,7 +70,6 @@
     height: 60px;
     background-color: #2f80ed;
     color: #fff;
-
 }
 
 .form__button:hover {
