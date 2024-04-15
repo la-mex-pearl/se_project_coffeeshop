@@ -8,8 +8,8 @@
 }
 
 .footer__content {
-    margin: 0px;
-    padding: 0;
+    margin: 0;
+    padding: 60px 0 108px;
     display: flex;
     justify-content: space-between;
     
