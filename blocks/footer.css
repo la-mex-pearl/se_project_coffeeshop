@@ -12,6 +12,7 @@
     padding: 60px 80px 108px;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     
 
 
@@ -36,6 +37,8 @@
 }
 
 .footer__social-icon {
+    width: 16px;
+    height: 16px;
 
 }
 
