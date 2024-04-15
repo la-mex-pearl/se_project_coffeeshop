@@ -23,6 +23,8 @@
 .footer__logo {
     width: 105px;
     height: 39px;
+    margin: 0;
+    padding: 0;
 
 }
 
