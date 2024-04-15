@@ -12,8 +12,9 @@
 }
 
 .menu__title {
-    text-align: center;
-    margin: 0 0 24px;
+    margin: 0 auto;
+    padding-bottom: 24px;
+    max-width: 780px;
     font-family: "Inter"; 
     font-style: normal; 
     font-weight: 500; 
@@ -22,8 +23,9 @@
 }
 
 .menu__subtitle {
-    text-align: center;
-    margin: 0 0 100px;
+    max-width: 780px;
+    margin: 0 auto;
+    padding-bottom: 100px;
     font-family: "Noto Serif"; 
     font-style: normal; 
     font-weight: normal; 
