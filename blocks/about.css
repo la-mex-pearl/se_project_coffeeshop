@@ -6,6 +6,7 @@
         opacity: 0.6;
     }
     to {
+        transform: scale(1.4);
         opacity: 0;
     }
 }
