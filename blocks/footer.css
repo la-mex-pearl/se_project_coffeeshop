@@ -13,7 +13,7 @@
     margin: 0;
     padding: 0; 
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     
     
 
@@ -29,7 +29,8 @@
 }
 
 .footer__social-heading {
-
+    margin: 0;
+    padding: 0;
 }
 
 .footer__list {
