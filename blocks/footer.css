@@ -1,5 +1,5 @@
 .footer {
-    background-color: #0A2850;
+    background: linear-gradient(180deg, #0A2850 0%, #071931 100%);
     color: #fff;
     margin: 0;
     padding: 60px 80px 108px;
@@ -64,6 +64,11 @@
 .footer__social-link {
     text-decoration: none;
     color: #fff;
+    transition: color 0.5s;
+}
+
+.footer__social-link:hover {
+    color: #C1C1C1;
 }
 
 .footer__copyright {
@@ -71,5 +76,4 @@
     padding: 108px 0 60px;
     color: #fff;
     
-
 }
