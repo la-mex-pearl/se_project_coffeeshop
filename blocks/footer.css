@@ -45,6 +45,7 @@
     flex-direction: column;
     gap: 16px;
     text-align: center;
+    list-style: none;
 }
 
 .footer__list-item {
