@@ -76,6 +76,7 @@
    margin-left: -129px;
    margin-top: -152px;   
    position: absolute;
-   animation-name: 'pulsate';
-   
+   animation: pulsate 1.5s ease-in-out infinite; 
+   animation-delay: 0s;
+
 }
