@@ -10,7 +10,7 @@
 }
 
 .recipes__title {
-    font-family: "Inter";
+    font-family: "Inter", Arial, Sans-Serif;
     font-style: normal;
     font-weight: 500;
     font-size: 44px;
@@ -22,7 +22,7 @@
 }
 
 .recipes__subtitle {
-    font-family: "Noto Serif";
+    font-family: "Noto Serif", Times New Roman, Serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 30px;
@@ -49,7 +49,7 @@
 .recipes__video-caption {
     display: flex;
     justify-content: space-between;
-    font-family: "Inter";
+    font-family: "Inter", Arial, Sans-Serif;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;

@@ -16,7 +16,7 @@
     font-size: 60px;
     line-height: 70px;
     margin: 183px 0 0;
-    font-family: "Inter";
+    font-family: "Inter", Arial, Sans-Serif;
     font-style: normal;
     font-weight: 500;
     font-size: 60px;
@@ -26,7 +26,7 @@
 
 .header__description {
     max-width: 683px;
-    font-family: "Noto Serif";
+    font-family: "Noto Serif", Times New Roman, Serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -36,7 +36,7 @@
 
 .header__span-accent {
     display: block;
-    font-family: "Noto Serif";
+    font-family: "Noto Serif", Times New Roman, Serif;
     font-style: italic;
     font-weight: normal;
     font-size: 60px;
@@ -60,7 +60,7 @@ margin-top: auto;
 
 .header__paragraph {
     margin: 0;
-    font-family: "Inter";
+    font-family: "Inter", Arial, Sans-Serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
