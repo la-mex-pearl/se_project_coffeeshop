@@ -1,45 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <meta name="description" content="Coffee Shop Landing Page/">
-        <meta name="author" content="Perla Hernandez"/>
-        <meta name="keywords" content="HTML, CSS"/> 
-        <link rel="stylesheet" href="./pages/index.css">
-        <link rel="icon" href="favicon.ico">
-        <title>Coffee Shop</title>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Noto+Serif:ital@0;1&display=swap"
-        rel="stylesheet"
-    />
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="Coffee Shop Landing Page/">
+    <meta name="author" content="Perla Hernandez"/>
+    <meta name="keywords" content="HTML, CSS"/> 
+    <link rel="stylesheet" href="./pages/index.css">
+    <link rel="icon" href="favicon.ico">
+    <title>Coffee Shop</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Noto+Serif:ital@0;1&display=swap" rel="stylesheet"/>
 </head>
 <body>
     <div class="page">
-     <header class="header">
-        <nav class="nav">
-            <img src="./images/logo_coffeeshop_dark.svg" alt="Coffeshop Logo" class="nav__logo"/>
-            <ul class="nav__links">
-                <li ><a href="#recipes-section" class="nav__link">Recipes</a></li>
-                <li ><a href="#reservation-section" class="nav__link">Book a table</a></li>
-                <li ><a href="#menu-section" class="nav__link">Menu</a></li>
-                <li ><a href="#about-section" class="nav__link">Contacts</a></li>
-            </ul>
-        </nav>
+        <header class="header">
+            <nav class="nav">
+                <img src="./images/logo_coffeeshop_dark.svg" alt="Coffeshop Logo" class="nav__logo"/>
+                <ul class="nav__links">
+                    <li ><a href="#recipes-section" class="nav__link">Recipes</a></li>
+                    <li ><a href="#reservation-section" class="nav__link">Book a table</a></li>
+                    <li ><a href="#menu-section" class="nav__link">Menu</a></li>
+                    <li ><a href="#about-section" class="nav__link">Contacts</a></li>
+                </ul>
+            </nav>
+<!--The header title is asked to be wrapped in a span tag on the brief, should I still remove it and use max-width style and create a text wrap?-->
         <h1 class="header__title"><span class="header__span-accent">Specialty coffee</span> in the Triple Peaks Library</h1>
         <p class="header__description">
             Welcome to our study zone! We've got the coffee to energize you and the cozy vibes to help you get creative.</p>
             <img src="./images/inside_coffee_shop.png" alt="Inside the coffee shop." class="header__image"/>
         <div class="header__footer">
             <div>
-                <p class="header__footer-info">Hours</p>
-                <p class="header__footer-info">Monday–Friday (10:00–19:00)</p>
-                <p class="header__footer-info">Saturday–Sunday (11:00–18:00)</p>
+                <p class="header__paragraph">Hours</p>
+                <p class="header__paragraph">Monday–Friday (10:00–19:00)</p>
+                <p class="header__paragraph">Saturday–Sunday (11:00–18:00)</p>
              </div>
             <p class="header__footer-info">200 Success Avenue, The Town of Triple Peaks</p>
-        </div>
+    </div>
         </header>
 
         <main class="content">
@@ -204,28 +202,20 @@
         </main>
       <footer class="footer">
         <div class="footer__content">
-        <img src="./images/logo_coffeeshop_light.svg" alt="Coffeeshop logo." class="footer__logo"/>
-    
+            <img src="./images/logo_coffeeshop_light.svg" alt="Coffeeshop logo." class="footer__logo"/>
         <div class="footer__content">
-                
+            <h3 class="footer__social-heading">Social Media</h3>
                 <ul class="footer_list">
-                    <h3 class="footer__social-heading">Social Media</h3>
                     <li class="footer__list-item">
-                    <img src="./images/facebook_white.svg" alt="Facebook logo." class="footer__social-icon">
-                    <a href="https://www.facebook.com/" class="footer__social-link">Facebook</a>
+                        <a href="https://www.facebook.com/" class="footer__social-link"><img src="./images/facebook_white.svg" alt="Facebook logo." class="footer__social-icon">Facebook</a>
                     </li>
                     <li class="footer__list-item">
-                        <img src="./images/instagram_white.svg" alt="Instagram logo." class="footer__social-icon">
-                       <a href="https://www.instagram.com/" class="footer__social-link">Instagram</a> 
+                       <a href="https://www.instagram.com/" class="footer__social-link"><img src="./images/instagram_white.svg" alt="Instagram logo." class="footer__social-icon">Instagram</a> 
                     </li>
                 </ul>
         </div>
-    </div>
-            <div class="footer__copyright">
-                <span>&copy</span> 2024 Perla Hernandez
-            </div> 
-    
+        </div>
+        <p class="footer__copyright">&copy 2024 Perla Hernandez</p> 
       </footer>
-    </div>
 </body>
 </html>
