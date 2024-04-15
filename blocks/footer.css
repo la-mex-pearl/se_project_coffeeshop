@@ -1,5 +1,7 @@
 .footer {
-
+    margin: 60px 80px 108px;
+    display: flex;
+    flex-direction: row;
 }
 
 .footer__content{
