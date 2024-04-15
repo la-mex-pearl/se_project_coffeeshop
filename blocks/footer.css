@@ -12,9 +12,8 @@
     margin: 60px 80px 108px;
     padding: 0; 
     display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    width: 100%;
+    justify-content: space-between;
+   
 
     
     
