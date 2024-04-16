@@ -49,6 +49,8 @@
 }
 
 .recipes__video-caption {
+    padding-top: 24px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     font-family: "Inter", Arial, Sans-Serif;
