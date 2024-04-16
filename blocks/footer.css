@@ -71,7 +71,7 @@
 
 .footer__copyright {
     margin: 0;
-    padding-bottom: 60px;
+    padding: 0;
     color: #fff;
     font-family: "Inter", Arial, Sans-Serif;
     font-style: normal;
