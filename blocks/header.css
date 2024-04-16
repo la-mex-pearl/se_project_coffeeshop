@@ -5,10 +5,7 @@
     min-height: 720px;
     max-height: 800px;
     height: 100vh;
-    background-color: #FFF;
-    background-image: url(../images/background_header.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: url(../images/background_header.svg) #FFF no-repeat cover;
 }
 
 .header__title {
