@@ -1,5 +1,5 @@
 .menu {
-  padding: 100px 0 100px; 
+  padding: 100px 0 100px;
   display: flex;
   flex-direction: column;
   background-color: #fff;
@@ -12,34 +12,34 @@
 }
 
 .menu__title {
-    margin: 0 auto;
-    padding-bottom: 24px;
-    max-width: 780px;
-    font-family: "Inter", Arial, Sans-Serif;
-    font-style: normal; 
-    font-weight: 500; 
-    font-size: 44px; 
-    line-height: 52px;
+  margin: 0 auto;
+  padding-bottom: 24px;
+  max-width: 780px;
+  font-family: "Inter", Arial, Sans-Serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
 }
 
 .menu__subtitle {
-    max-width: 780px;
-    margin: 0 auto;
-    padding-bottom: 100px;
-    text-align: center;
-    font-family: "Noto Serif", Times New Roman, Serif;
-    font-style: normal; 
-    font-weight: normal; 
-    font-size: 20px; 
-    line-height: 30px;
+  max-width: 780px;
+  margin: 0 auto;
+  padding-bottom: 100px;
+  text-align: center;
+  font-family: "Noto Serif", Times New Roman, Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .menu__cards {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 100px;
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 100px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
 }
