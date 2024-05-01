@@ -6,8 +6,4 @@
   font-family: "Inter", Arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
-  background-image: url(../images/background_header.svg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  box-sizing: border-box;
 }
