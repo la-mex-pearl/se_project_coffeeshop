@@ -15,6 +15,7 @@
   margin: 0 auto;
   padding: 0;
   display: flex;
+  position: relative;
   justify-content: space-between;
   background-color: #0a2850;
   color: #fff;
