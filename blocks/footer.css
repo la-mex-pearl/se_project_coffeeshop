@@ -17,14 +17,13 @@
 .footer__logo {
   width: 105px;
   height: 39px;
-  padding: 0;
 }
 
 .footer__social-heading {
   display: flex;
-  flex-direction: column;
   margin: 0;
-  padding-bottom: 20px;
+  right: 80px;
+  position: absolute;
   font-family: "Inter", Arial, Sans-Serif;
   font-style: normal;
   font-weight: bold;
