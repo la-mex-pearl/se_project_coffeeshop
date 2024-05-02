@@ -23,8 +23,7 @@
 .footer__social-heading {
   display: flex;
   flex-direction: column;
-  margin: 0;
-  padding-bottom: 20px;
+  margin: 0 auto;
   font-family: "Inter", Arial, Sans-Serif;
   font-style: normal;
   font-weight: bold;
