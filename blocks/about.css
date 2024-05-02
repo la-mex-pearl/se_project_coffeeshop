@@ -56,9 +56,9 @@
   width: 426px;
   height: 426px;
   border-radius: 50%;
-  position: absolute;
-  margin-left: -129px;
-  margin-top: -152px;
+  left: -129px;
+  top: -152px;
+  position: relative;
 }
 
 .about__circle_animation_blurred {
