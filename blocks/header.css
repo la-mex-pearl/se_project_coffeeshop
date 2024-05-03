@@ -60,7 +60,7 @@
   display: flex;
   justify-content: space-between;
   margin-top: auto;
-  padding-right: 80px;
+  align-items: flex-end;
   z-index: 1;
 }
 
