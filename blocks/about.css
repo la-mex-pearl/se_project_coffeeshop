@@ -23,7 +23,7 @@
 
 .about__title {
   max-width: 251px;
-  position: absolute;
+  position: relative;
   margin: 0;
   padding: 100px 0 0 80px;
   font-family: "Inter", Arial, Sans-Serif;
