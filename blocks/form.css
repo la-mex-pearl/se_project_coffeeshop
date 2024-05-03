@@ -37,7 +37,7 @@
   min-height: 60px;
   border-radius: 4px;
   border-color: #838383;
-  border: solid;
+  border: 1px solid;
 }
 
 .form__input::placeholder {
